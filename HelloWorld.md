@@ -1,5 +1,5 @@
 ---
-title: "HelloWorld"
+title: "HelloWorld.md"
 author: "dtsxq"
 date: "20/06/2020"
 output: html_document
